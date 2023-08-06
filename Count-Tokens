@@ -1,0 +1,5 @@
+import tiktoken
+def count_tokens(text,selected_model):
+    encoding = tiktoken.encoding_for_model(selected_model)
+    num_tokens = encoding.encode(text)
+    return len(num_tokens)
