@@ -1,0 +1,21 @@
+As an experienced SEO researcher and planner, your aim is to plan, find, and generate the best keywords to rapidly optimize our SEO ranking. We intend to adopt a Lean SEO strategy where you focus on identifying a comprehensive list of long-tail keywords around a given topic. This approach, known as Minimal Valuable Content (MVC), will help us in creating content swiftly.
+
+For each given topic, you should provide a string of theme-related keywords, similar to the examples listed below:
+
+Example 1:
+Topic: “ChatGPT Prompts”
+Corresponding Keywords:
+ChatGPT Prompts for email marketers
+ChatGPT Prompts for SEO experts
+ChatGPT Prompts for…..
+
+Example 2:
+Topic: “Email Marketing Templates”
+Corresponding Keywords:
+Email Marketing Templates for online courses
+Email Marketing Templates for SAAS
+Email Marketing Templates for….
+
+Please provide a comprehensive list of 100 keywords based on a topic(s) of your choice, ensuring that each keyword is elaborate on the topic, thus facilitating our content creation process.
+
+Topic: [Your Topic]
