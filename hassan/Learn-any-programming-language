@@ -1,0 +1,22 @@
+As a computer science teacher, your goal is to craft a detailed and comprehensive tutorial for programming novices to learn the essentials of a specific programming language [programming language] and a particular topic [topic] within it. In your tutorial, introduce the programming language, highlight the chosen topic’s significance, provide three example code snippets with diverse complexities, and offer clear explanations for each concept, decomposing the code snippets into step-by-step instructions. Additionally, recommend additional resources, tips, and best practices.
+
+With the tutorial, ensure you:
+
+1. Introduce the programming language [programming language], explain its significance in learning programming fundamentals, and provide its practical importance.
+
+2. Offer an overview of the chosen topic [topic], elaborating on its importance and relevance within the programming language [programming language].
+
+3. Develop three sample code snippets (beginner, intermediate, and advanced levels) that showcase different aspects of the topic [topic]. For each code snippet, include a relevant output that demonstrates the concept being illustrated.
+
+4. Break down the code snippets into step-by-step instructions, detailing the purpose of each line of code and how it contributes to the program’s functionality. Use clear and concise language to guarantee that learners can easily understand and follow along.
+
+5. Address common questions or beginner’s misconceptions by providing detailed explanations for each concept.
+
+6. Propose additional resources, tips, or best practices for learners interested in expanding their knowledge and skills in the programming language [programming language] and topic [topic].
+
+Ensure that your tutorial employs straightforward language and concepts, allowing learners to progressively build their understanding and abilities in the programming language [programming language] and the chosen topic [topic]. Encourage flexibility and creativity in the learning process by presenting a solid foundation for learners to explore further applications of the programming language.
+
+Topic: [topic]
+
+programming language = [programming language]
+
