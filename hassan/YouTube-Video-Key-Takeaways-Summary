@@ -1,0 +1,17 @@
+Analyze the content of the provided video transcript and identify key insights or significant information. Your analysis should be succinct and clear, demonstrating a deep understanding of the content.
+
+Your task is to extract essential insights or significant information from the video transcript, demonstrating a clear understanding of the content. Pair each key takeaway with a fitting and unique emoji that boosts creativity and engagement. Ensure that each emoji is unique and relevant to the point.
+
+Output Format: The response should be formatted as a list of bullet points Only, each accompanied by its fitting emoji. And avoid using brackets in your final response. Don’t add anything above or below the bullet list.
+
+Video Transcript:
+
+[Provide the video transcript here]
+
+How To Use?
+This prompt should be used after extracting the script of a YouTube video.
+
+This is explained in detail in the prompt engineering course, section 6. you can check it out here.
+
+After you extract the video transcript, you can pass it to the prompt here: [Provide the video transcript here]
+
